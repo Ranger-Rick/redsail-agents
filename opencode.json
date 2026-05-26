@@ -9,7 +9,7 @@
         "edit": "allow",
         "bash": "allow"
       },
-      "prompt": "{file:./.opencode/agents/developer.md}"
+      "prompt": "{file:./.agents/developer.md}"
     },
     "product-manager": {
       "mode": "primary",
@@ -18,7 +18,7 @@
         "edit": "deny",
         "bash": "deny"
       },
-      "prompt": "{file:./.opencode/agents/product-manager.md}"
+      "prompt": "{file:./.agents/product-manager.md}"
     },
     "pioneerrx-business-expert": {
       "mode": "subagent",
@@ -27,7 +27,7 @@
         "edit": "deny",
         "bash": "deny"
       },
-      "prompt": "{file:./.opencode/agents/pioneerrx-business-expert.md}"
+      "prompt": "{file:./.agents/pioneerrx-business-expert.md}"
     },
     "pioneerrx-code-expert": {
       "mode": "subagent",
@@ -36,7 +36,7 @@
         "edit": "deny",
         "bash": "allow"
       },
-      "prompt": "{file:./.opencode/agents/pioneerrx-code-expert.md}"
+      "prompt": "{file:./.agents/pioneerrx-code-expert.md}"
     },
     "technical-writer": {
       "mode": "subagent",
@@ -45,7 +45,7 @@
         "edit": "allow",
         "bash": "deny"
       },
-      "prompt": "{file:./.opencode/agents/technical-writer.md}"
+      "prompt": "{file:./.agents/technical-writer.md}"
     },
     "tester": {
       "mode": "subagent",
@@ -54,7 +54,7 @@
         "edit": "allow",
         "bash": "allow"
       },
-      "prompt": "{file:./.opencode/agents/tester.md}"
+      "prompt": "{file:./.agents/tester.md}"
     },
     "tony-stark": {
       "mode": "subagent",
@@ -64,7 +64,7 @@
         "edit": "deny",
         "bash": "deny"
       },
-      "prompt": "{file:./.opencode/agents/tony-stark.md}"
+      "prompt": "{file:./.agents/tony-stark.md}"
     }
   }
 }
