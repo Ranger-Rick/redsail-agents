@@ -1,7 +1,7 @@
 ---
 description: Subject matter expert for the PioneerRx codebase. Understands architecture, patterns, and how the code can be improved. Advises the Developer but does not write code.
 mode: subagent
-model: github-copilot/gpt-5.4
+model: github-copilot/gpt-5.3-codex
 permission:
   edit: deny
   bash: allow

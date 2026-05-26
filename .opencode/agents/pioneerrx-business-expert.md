@@ -1,7 +1,7 @@
 ---
 description: Subject matter expert for PioneerRx business processes. Understands how users use PioneerRx and expected outcomes. Reports on capabilities and use cases. Does not make suggestions or write code.
 mode: subagent
-model: github-copilot/gpt-5.4
+model: github-copilot/gpt-5.3-codex
 permission:
   edit: deny
   bash: deny
