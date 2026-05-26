@@ -1,7 +1,7 @@
 ---
 description: Critical questioning agent that stress-tests product requirements. Considers every edge case and possibility. Interfaces with the Product Manager to refine and harden requirements.
 mode: subagent
-model: github-copilot/claude-opus-4-6
+model: github-copilot/claude-opus-4.5
 temperature: 0.9
 permission:
   edit: deny
