@@ -2,7 +2,8 @@
 
 # Run from root directory. This script will copy the relevant contents of the redsail-agents up one directory
 
-cp -Rf redsail-agents/.agents ./.agents/
+mkdir -p ./.agents
+cp -Rf redsail-agents/.agents/. ./.agents/
 
 # Opencode
 if [ ! -f opencode.json ]; then
